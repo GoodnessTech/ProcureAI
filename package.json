@@ -1,0 +1,41 @@
+{
+  "name": "procure-ai",
+  "version": "1.0.0",
+  "description": "ProcureAI - AI-Powered Procurement Agent with On-Chain Approval on BOT Chain Mainnet",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node backend/src/index.js",
+    "backend": "node backend/src/index.js",
+    "frontend:dev": "npm run dev --prefix frontend",
+    "frontend:build": "npm run build --prefix frontend",
+    "frontend:start": "npm run start --prefix frontend",
+    "compile": "hardhat compile",
+    "test": "node --test test/contractTest.js backend/test/*.test.js",
+    "deploy:botchain": "node scripts/deploy.js",
+    "build": "npm run frontend:build"
+  },
+  "keywords": [
+    "ai",
+    "procurement",
+    "blockchain",
+    "botchain",
+    "solidity",
+    "smart-contract",
+    "nextjs",
+    "react"
+  ],
+  "author": "ProcureAI Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.12",
+    "chai": "^4.5.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "express": "^4.21.2"
+  }
+}

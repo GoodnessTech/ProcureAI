@@ -1,0 +1,152 @@
+[
+  {
+    "procurementId": "PROC-2026-LAPTOPS-50-6440",
+    "procurementIdBytes32": "0x6dddbcc023f16b3a2281d15737fb31175f041409815d3e86ee14cadc3c9301d0",
+    "rawRequest": "Buy 50 laptops under $30,000.",
+    "itemCategory": "Laptops",
+    "quantity": 50,
+    "maxBudget": 30000,
+    "recommendedSupplier": {
+      "id": "supp_techsource",
+      "name": "TechSource Enterprise",
+      "supplierHash": "0x827ce4dcaf0ab86036819c0a12070eed115facf3d3b8c99f1a8b6386b96fd128",
+      "unitPrice": 570,
+      "totalPrice": 28500,
+      "deliveryDays": 3,
+      "warrantyMonths": 36,
+      "paymentTerms": "Net 60",
+      "score": 94.1
+    },
+    "status": "APPROVED_ON_CHAIN",
+    "createdAt": "2026-08-25T16:41:34.069Z",
+    "onChainApproval": {
+      "txHash": "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "walletAddress": "0x1111111111111111111111111111111111111111",
+      "contractAddress": "0x0000000000000000000000000000000000000000",
+      "blockNumber": null,
+      "timestamp": "2026-08-25T16:41:34.114Z",
+      "explorerUrl": "https://scan.botchain.ai/tx/0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "chainId": 677
+    }
+  },
+  {
+    "procurementId": "PROC-2026-LAPTOPS-50-7602",
+    "procurementIdBytes32": "0xb9ea810cda1e63b39fbb4bc9d0bf79b24598318b5549f45b5b8c6a6ea1f0e220",
+    "rawRequest": "Buy 50 laptops under $30,000.",
+    "itemCategory": "Laptops",
+    "quantity": 50,
+    "maxBudget": 30000,
+    "recommendedSupplier": {
+      "id": "supp_techsource",
+      "name": "TechSource Enterprise",
+      "supplierHash": "0x827ce4dcaf0ab86036819c0a12070eed115facf3d3b8c99f1a8b6386b96fd128",
+      "unitPrice": 570,
+      "totalPrice": 28500,
+      "deliveryDays": 3,
+      "warrantyMonths": 36,
+      "paymentTerms": "Net 60",
+      "score": 94.1
+    },
+    "status": "APPROVED_ON_CHAIN",
+    "createdAt": "2026-08-25T16:59:31.839Z",
+    "onChainApproval": {
+      "txHash": "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "walletAddress": "0x1111111111111111111111111111111111111111",
+      "contractAddress": "0x0000000000000000000000000000000000000000",
+      "blockNumber": null,
+      "timestamp": "2026-08-25T16:59:31.890Z",
+      "explorerUrl": "https://scan.botchain.ai/tx/0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "chainId": 677
+    }
+  },
+  {
+    "procurementId": "PROC-2026-LAPTOPS-50-4832",
+    "procurementIdBytes32": "0xf3a1a64ba13b943ea0ab6463d4361e80d2093da34ee6c24a4d7907ad3197c168",
+    "rawRequest": "Buy 50 laptops under $30,000.",
+    "itemCategory": "Laptops",
+    "quantity": 50,
+    "maxBudget": 30000,
+    "recommendedSupplier": {
+      "id": "supp_techsource",
+      "name": "TechSource Enterprise",
+      "supplierHash": "0x827ce4dcaf0ab86036819c0a12070eed115facf3d3b8c99f1a8b6386b96fd128",
+      "unitPrice": 570,
+      "totalPrice": 28500,
+      "deliveryDays": 3,
+      "warrantyMonths": 36,
+      "paymentTerms": "Net 60",
+      "score": 94.1
+    },
+    "status": "APPROVED_ON_CHAIN",
+    "createdAt": "2026-08-25T17:14:24.854Z",
+    "onChainApproval": {
+      "txHash": "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "walletAddress": "0x1111111111111111111111111111111111111111",
+      "contractAddress": "0x0000000000000000000000000000000000000000",
+      "blockNumber": null,
+      "timestamp": "2026-08-25T17:14:24.963Z",
+      "explorerUrl": "https://scan.botchain.ai/tx/0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "chainId": 677
+    }
+  },
+  {
+    "procurementId": "PROC-2026-LAPTOPS-50-7600",
+    "procurementIdBytes32": "0xae64fa3ff3a3f2d394d65632c5b834edb3655b35bd46cb01f08e29842d38e80b",
+    "rawRequest": "Buy 50 laptops under $30,000.",
+    "itemCategory": "Laptops",
+    "quantity": 50,
+    "maxBudget": 30000,
+    "recommendedSupplier": {
+      "id": "supp_techsource",
+      "name": "TechSource Enterprise",
+      "supplierHash": "0x827ce4dcaf0ab86036819c0a12070eed115facf3d3b8c99f1a8b6386b96fd128",
+      "unitPrice": 570,
+      "totalPrice": 28500,
+      "deliveryDays": 3,
+      "warrantyMonths": 36,
+      "paymentTerms": "Net 60",
+      "score": 94.1
+    },
+    "status": "APPROVED_ON_CHAIN",
+    "createdAt": "2026-08-25T17:37:54.713Z",
+    "onChainApproval": {
+      "txHash": "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "walletAddress": "0x1111111111111111111111111111111111111111",
+      "contractAddress": "0xE4c3b3cB0919D904588F60D138b7eE076BAa76a8",
+      "blockNumber": null,
+      "timestamp": "2026-08-25T17:37:54.768Z",
+      "explorerUrl": "https://scan.botchain.ai/tx/0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "chainId": 677
+    }
+  },
+  {
+    "procurementId": "PROC-2026-LAPTOPS-50-9267",
+    "procurementIdBytes32": "0x5ac96f98e1cb99efd213b4d7f6f21ef0722598228896f34d7a13ed9528ab56ed",
+    "rawRequest": "Buy 50 laptops under $30,000.",
+    "itemCategory": "Laptops",
+    "quantity": 50,
+    "maxBudget": 30000,
+    "recommendedSupplier": {
+      "id": "supp_techsource",
+      "name": "TechSource Enterprise",
+      "supplierHash": "0x827ce4dcaf0ab86036819c0a12070eed115facf3d3b8c99f1a8b6386b96fd128",
+      "unitPrice": 570,
+      "totalPrice": 28500,
+      "deliveryDays": 3,
+      "warrantyMonths": 36,
+      "paymentTerms": "Net 60",
+      "score": 94.1
+    },
+    "status": "APPROVED_ON_CHAIN",
+    "createdAt": "2026-08-25T19:02:52.329Z",
+    "onChainApproval": {
+      "txHash": "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "walletAddress": "0x1111111111111111111111111111111111111111",
+      "contractAddress": "0xE4c3b3cB0919D904588F60D138b7eE076BAa76a8",
+      "blockNumber": null,
+      "timestamp": "2026-08-25T19:02:52.395Z",
+      "explorerUrl": "https://scan.botchain.ai/tx/0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "chainId": 677
+    }
+  }
+]
