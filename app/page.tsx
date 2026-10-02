@@ -11,6 +11,7 @@ import {
   Eye,
   Boxes,
   Link2,
+  ExternalLink,
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -239,9 +240,29 @@ export default function LandingPage() {
                 AI-powered procurement intelligence built on BOT Chain.
               </p>
             </div>
-            <div className="flex items-center gap-2 rounded-full border bg-card px-3 py-1.5 text-sm font-medium shadow-sm">
-              <Shield className="h-4 w-4 text-accent" />
-              Built on BOT Chain
+            <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6 text-sm font-medium text-muted-foreground">
+              <a
+                href="https://www.botchain.ai"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-1.5 transition-colors hover:text-foreground"
+              >
+                BOT Chain Official Website
+                <ExternalLink className="h-3.5 w-3.5" />
+              </a>
+              <a
+                href="https://scan.botchain.ai"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-1.5 transition-colors hover:text-foreground"
+              >
+                Botscan
+                <ExternalLink className="h-3.5 w-3.5" />
+              </a>
+              <div className="flex items-center gap-2 rounded-full border bg-card px-3 py-1.5 text-sm font-medium text-foreground shadow-sm">
+                <Shield className="h-4 w-4 text-accent" />
+                Built on BOT Chain
+              </div>
             </div>
           </div>
         </div>
